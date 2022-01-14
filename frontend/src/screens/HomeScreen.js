@@ -3,8 +3,8 @@ import "./HomeScreen.css"
 
 const HomeScreen = () => {
     return (
-        <div>
-            
+        <div className='homescreen'>
+            Home Screen
         </div>
     )
 }
